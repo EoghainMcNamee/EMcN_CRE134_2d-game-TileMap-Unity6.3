@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: a80d9df9e20eaa8469942a6e9ef28823
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2931904948062451647
+    second: Trre Sprite_0
+  - first:
+      213: 2322737065244283336
+    second: Trre Sprite_1
+  - first:
+      213: -3105315369684802130
+    second: Trre Sprite_2
+  - first:
+      213: -2704168136275471666
+    second: Trre Sprite_3
+  - first:
+      213: -5709962224093678670
+    second: Trre Sprite_4
+  - first:
+      213: 8565094782012241811
+    second: Trre Sprite_5
+  - first:
+      213: 4799018479003250270
+    second: Trre Sprite_6
+  - first:
+      213: -1861798136854176974
+    second: Trre Sprite_7
+  - first:
+      213: -3647242111271531520
+    second: Trre Sprite_8
+  - first:
+      213: -5202564152252868785
+    second: Trre Sprite_9
+  - first:
+      213: -6116739567977417611
+    second: Trre Sprite_10
+  - first:
+      213: -3096596758295202579
+    second: Trre Sprite_11
+  - first:
+      213: -486474635448015627
+    second: Trre Sprite_12
+  - first:
+      213: 5082389212752728719
+    second: Trre Sprite_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trre Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 797
+        width: 1199
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7f870340830b820800000000000000
+      internalID: 2931904948062451647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trre Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 960
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1d480fd050c3020800000000000000
+      internalID: 2322737065244283336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trre Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 935
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5606abf14b7e4d0800000000000000
+      internalID: -3105315369684802130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trre Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 934
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2de58486dd87ad0800000000000000
+      internalID: -2704168136275471666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trre Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 864
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b33fff1c9322c0b0800000000000000
+      internalID: -5709962224093678670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trre Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 385
+        width: 399
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397346d03545dd670800000000000000
+      internalID: 8565094782012241811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trre Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 21
+        width: 593
+        height: 773
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e268f51e9899240800000000000000
+      internalID: 4799018479003250270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trre Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 475
+        width: 371
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b925175709926e0800000000000000
+      internalID: -1861798136854176974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trre Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 283
+        width: 203
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c80dbaf94626dc0800000000000000
+      internalID: -3647242111271531520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trre Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 225
+        width: 214
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4759c7c777ccc7b0800000000000000
+      internalID: -5202564152252868785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trre Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 283
+        width: 281
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574312355c9fc1ba0800000000000000
+      internalID: -6116739567977417611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trre Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 117
+        width: 112
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de43031a7ada605d0800000000000000
+      internalID: -3096596758295202579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trre Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 22
+        width: 316
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f422e185e1bf39f0800000000000000
+      internalID: -486474635448015627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trre Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 17
+        width: 140
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f825764bf06488640800000000000000
+      internalID: 5082389212752728719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Trre Sprite_0: 2931904948062451647
+      Trre Sprite_1: 2322737065244283336
+      Trre Sprite_10: -6116739567977417611
+      Trre Sprite_11: -3096596758295202579
+      Trre Sprite_12: -486474635448015627
+      Trre Sprite_13: 5082389212752728719
+      Trre Sprite_2: -3105315369684802130
+      Trre Sprite_3: -2704168136275471666
+      Trre Sprite_4: -5709962224093678670
+      Trre Sprite_5: 8565094782012241811
+      Trre Sprite_6: 4799018479003250270
+      Trre Sprite_7: -1861798136854176974
+      Trre Sprite_8: -3647242111271531520
+      Trre Sprite_9: -5202564152252868785
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
